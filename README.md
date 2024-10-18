@@ -1,1 +1,1 @@
-# coin-detection
+# coin-denomination
